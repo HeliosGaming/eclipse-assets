@@ -1,0 +1,20 @@
+# Editor/IDE
+.vscode/
+
+# Dependencies
+
+# Project config and tooling
+.darklua.json
+nodemon.json
+package.json
+selene.toml
+
+sunc.d.luau
+eclipse.d.luau
+
+# Source and tools
+src/
+tools/
+
+# LAEWL!
+out/
