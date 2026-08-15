@@ -8,6 +8,7 @@
 nodemon.json
 package.json
 selene.toml
+stylua.toml
 
 sunc.d.luau
 eclipse.d.luau
