@@ -2,6 +2,8 @@
 .vscode/
 
 # Dependencies
+node_modules/
+package-lock.json
 
 # Project config and tooling
 .darklua.json
