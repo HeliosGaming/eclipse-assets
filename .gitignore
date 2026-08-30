@@ -9,7 +9,6 @@ package-lock.json
 .darklua.json
 nodemon.json
 package.json
-*.config.json
 selene.toml
 stylua.toml
 
@@ -17,6 +16,7 @@ sunc.d.luau
 eclipse.d.luau
 
 # Source and tools
+*.lua
 src/
 tools/
 
